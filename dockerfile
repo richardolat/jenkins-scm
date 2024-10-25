@@ -10,4 +10,4 @@ COPY index.html /usr/share/nginx/html/
 # Expose port 80 to allow external access
 EXPOSE 80
 
-# No need for CMD as NGINX image comes with a default CMD to start the server
+# No need for CMD as NGINX image comes with a default CMD to start server
